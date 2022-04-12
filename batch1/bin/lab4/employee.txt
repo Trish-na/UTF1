@@ -1,0 +1,3 @@
+Name	Designation	  	Salary		Insurance scheme
+Kathy	Associate	  	20000		Scheme B
+Smith	Senior manager		50000		Scheme A
